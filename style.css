@@ -172,7 +172,6 @@ nav>svg{
   border-radius: 50px 10px 10px 10px;
   box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.3);
   height: 227px;
-
 }
 
 .blog-image{
@@ -352,4 +351,6 @@ nav>svg{
   width: 170px;
   justify-content: space-between;
   font-size: 13px;
+  
+  /* height: 50px; */
 }
