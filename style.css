@@ -269,10 +269,13 @@ nav>svg{
   font-size: 30px;
 }
 
-.download-email{
+.download-email form{
   border-radius: 20px;
-  overflow: hidden;
+  /* overflow: hidden; */
   background-color: #E9EDFF;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
   /* height: 30px; */
   /* width: 100px; */
 }
@@ -348,6 +351,7 @@ nav>svg{
   list-style: none;
   margin-top: 80px;
   margin-left: 3px;
+  width: 170px;
   width: 170px;
   justify-content: space-between;
   font-size: 13px;
